@@ -7,7 +7,6 @@ namespace Angular2.Controllers
         // GET: /<controller>/
         public IActionResult Index()
         {
-
             return View();
         }
     }
